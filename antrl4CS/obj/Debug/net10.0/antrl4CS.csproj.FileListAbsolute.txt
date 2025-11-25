@@ -1,0 +1,14 @@
+C:\Users\Sebastian\OneDrive - INTEC\ING. DE SOFTWARE\Construcción de Software\antrl4CS\antrl4CS\bin\Debug\net10.0\antrl4CS.exe
+C:\Users\Sebastian\OneDrive - INTEC\ING. DE SOFTWARE\Construcción de Software\antrl4CS\antrl4CS\bin\Debug\net10.0\antrl4CS.deps.json
+C:\Users\Sebastian\OneDrive - INTEC\ING. DE SOFTWARE\Construcción de Software\antrl4CS\antrl4CS\bin\Debug\net10.0\antrl4CS.runtimeconfig.json
+C:\Users\Sebastian\OneDrive - INTEC\ING. DE SOFTWARE\Construcción de Software\antrl4CS\antrl4CS\bin\Debug\net10.0\antrl4CS.dll
+C:\Users\Sebastian\OneDrive - INTEC\ING. DE SOFTWARE\Construcción de Software\antrl4CS\antrl4CS\bin\Debug\net10.0\antrl4CS.pdb
+C:\Users\Sebastian\OneDrive - INTEC\ING. DE SOFTWARE\Construcción de Software\antrl4CS\antrl4CS\obj\Debug\net10.0\antrl4CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\OneDrive - INTEC\ING. DE SOFTWARE\Construcción de Software\antrl4CS\antrl4CS\obj\Debug\net10.0\antrl4CS.AssemblyInfoInputs.cache
+C:\Users\Sebastian\OneDrive - INTEC\ING. DE SOFTWARE\Construcción de Software\antrl4CS\antrl4CS\obj\Debug\net10.0\antrl4CS.AssemblyInfo.cs
+C:\Users\Sebastian\OneDrive - INTEC\ING. DE SOFTWARE\Construcción de Software\antrl4CS\antrl4CS\obj\Debug\net10.0\antrl4CS.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\OneDrive - INTEC\ING. DE SOFTWARE\Construcción de Software\antrl4CS\antrl4CS\obj\Debug\net10.0\antrl4CS.dll
+C:\Users\Sebastian\OneDrive - INTEC\ING. DE SOFTWARE\Construcción de Software\antrl4CS\antrl4CS\obj\Debug\net10.0\refint\antrl4CS.dll
+C:\Users\Sebastian\OneDrive - INTEC\ING. DE SOFTWARE\Construcción de Software\antrl4CS\antrl4CS\obj\Debug\net10.0\antrl4CS.pdb
+C:\Users\Sebastian\OneDrive - INTEC\ING. DE SOFTWARE\Construcción de Software\antrl4CS\antrl4CS\obj\Debug\net10.0\antrl4CS.genruntimeconfig.cache
+C:\Users\Sebastian\OneDrive - INTEC\ING. DE SOFTWARE\Construcción de Software\antrl4CS\antrl4CS\obj\Debug\net10.0\ref\antrl4CS.dll
