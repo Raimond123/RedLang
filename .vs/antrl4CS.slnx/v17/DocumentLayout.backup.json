@@ -11,6 +11,22 @@
       "RelativeMoniker": "D:0:0:{92C37E63-07C9-0179-075E-DF9CE459F782}|antrl4CS\\antrl4CS.csproj|solutionrelative:antrl4cs\\astbuildervisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{92C37E63-07C9-0179-075E-DF9CE459F782}|antrl4CS\\antrl4CS.csproj|c:\\users\\hp\\onedrive - intec\\escritorio\\actividades_importantes\\intec\\10mo trimestre\\construccion de software\\antrl4cs - copy\\antrl4cs\\antrl4cs\\definition\\redlanglexer.g4||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C37E63-07C9-0179-075E-DF9CE459F782}|antrl4CS\\antrl4CS.csproj|solutionrelative:antrl4cs\\definition\\redlanglexer.g4||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C37E63-07C9-0179-075E-DF9CE459F782}|antrl4CS\\antrl4CS.csproj|c:\\users\\hp\\onedrive - intec\\escritorio\\actividades_importantes\\intec\\10mo trimestre\\construccion de software\\antrl4cs - copy\\antrl4cs\\antrl4cs\\definition\\redlangparser.g4||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{92C37E63-07C9-0179-075E-DF9CE459F782}|antrl4CS\\antrl4CS.csproj|solutionrelative:antrl4cs\\definition\\redlangparser.g4||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C37E63-07C9-0179-075E-DF9CE459F782}|antrl4CS\\antrl4CS.csproj|c:\\users\\hp\\onedrive - intec\\escritorio\\actividades_importantes\\intec\\10mo trimestre\\construccion de software\\antrl4cs - copy\\antrl4cs\\antrl4cs\\nodes\\usenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C37E63-07C9-0179-075E-DF9CE459F782}|antrl4CS\\antrl4CS.csproj|solutionrelative:antrl4cs\\nodes\\usenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C37E63-07C9-0179-075E-DF9CE459F782}|antrl4CS\\antrl4CS.csproj|c:\\users\\hp\\onedrive - intec\\escritorio\\actividades_importantes\\intec\\10mo trimestre\\construccion de software\\antrl4cs - copy\\antrl4cs\\antrl4cs\\nodes\\typenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C37E63-07C9-0179-075E-DF9CE459F782}|antrl4CS\\antrl4CS.csproj|solutionrelative:antrl4cs\\nodes\\typenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{92C37E63-07C9-0179-075E-DF9CE459F782}|antrl4CS\\antrl4CS.csproj|c:\\users\\hp\\onedrive - intec\\escritorio\\actividades_importantes\\intec\\10mo trimestre\\construccion de software\\antrl4cs - copy\\antrl4cs\\antrl4cs\\nodes\\arrayaccessnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92C37E63-07C9-0179-075E-DF9CE459F782}|antrl4CS\\antrl4CS.csproj|solutionrelative:antrl4cs\\nodes\\arrayaccessnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -55,32 +71,8 @@
       "RelativeMoniker": "D:0:0:{92C37E63-07C9-0179-075E-DF9CE459F782}|antrl4CS\\antrl4CS.csproj|solutionrelative:antrl4cs\\nodes\\classnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92C37E63-07C9-0179-075E-DF9CE459F782}|antrl4CS\\antrl4CS.csproj|c:\\users\\hp\\onedrive - intec\\escritorio\\actividades_importantes\\intec\\10mo trimestre\\construccion de software\\antrl4cs - copy\\antrl4cs\\antrl4cs\\nodes\\typenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92C37E63-07C9-0179-075E-DF9CE459F782}|antrl4CS\\antrl4CS.csproj|solutionrelative:antrl4cs\\nodes\\typenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92C37E63-07C9-0179-075E-DF9CE459F782}|antrl4CS\\antrl4CS.csproj|c:\\users\\hp\\onedrive - intec\\escritorio\\actividades_importantes\\intec\\10mo trimestre\\construccion de software\\antrl4cs - copy\\antrl4cs\\antrl4cs\\nodes\\usenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92C37E63-07C9-0179-075E-DF9CE459F782}|antrl4CS\\antrl4CS.csproj|solutionrelative:antrl4cs\\nodes\\usenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{92C37E63-07C9-0179-075E-DF9CE459F782}|antrl4CS\\antrl4CS.csproj|c:\\users\\hp\\onedrive - intec\\escritorio\\actividades_importantes\\intec\\10mo trimestre\\construccion de software\\antrl4cs - copy\\antrl4cs\\antrl4cs\\nodes\\programnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92C37E63-07C9-0179-075E-DF9CE459F782}|antrl4CS\\antrl4CS.csproj|solutionrelative:antrl4cs\\nodes\\programnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92C37E63-07C9-0179-075E-DF9CE459F782}|antrl4CS\\antrl4CS.csproj|c:\\users\\hp\\onedrive - intec\\escritorio\\actividades_importantes\\intec\\10mo trimestre\\construccion de software\\antrl4cs - copy\\antrl4cs\\antrl4cs\\generated\\construccion_semana2lexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92C37E63-07C9-0179-075E-DF9CE459F782}|antrl4CS\\antrl4CS.csproj|solutionrelative:antrl4cs\\generated\\construccion_semana2lexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92C37E63-07C9-0179-075E-DF9CE459F782}|antrl4CS\\antrl4CS.csproj|c:\\users\\hp\\onedrive - intec\\escritorio\\actividades_importantes\\intec\\10mo trimestre\\construccion de software\\antrl4cs - copy\\antrl4cs\\antrl4cs\\generated\\construccion_semana2parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92C37E63-07C9-0179-075E-DF9CE459F782}|antrl4CS\\antrl4CS.csproj|solutionrelative:antrl4cs\\generated\\construccion_semana2parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92C37E63-07C9-0179-075E-DF9CE459F782}|antrl4CS\\antrl4CS.csproj|c:\\users\\hp\\onedrive - intec\\escritorio\\actividades_importantes\\intec\\10mo trimestre\\construccion de software\\antrl4cs - copy\\antrl4cs\\antrl4cs\\definition\\construccion_semana2parser.g4||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{92C37E63-07C9-0179-075E-DF9CE459F782}|antrl4CS\\antrl4CS.csproj|solutionrelative:antrl4cs\\definition\\construccion_semana2parser.g4||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92C37E63-07C9-0179-075E-DF9CE459F782}|antrl4CS\\antrl4CS.csproj|c:\\users\\hp\\onedrive - intec\\escritorio\\actividades_importantes\\intec\\10mo trimestre\\construccion de software\\antrl4cs - copy\\antrl4cs\\antrl4cs\\definition\\construccion_semana2lexer.g4||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{92C37E63-07C9-0179-075E-DF9CE459F782}|antrl4CS\\antrl4CS.csproj|solutionrelative:antrl4cs\\definition\\construccion_semana2lexer.g4||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{92C37E63-07C9-0179-075E-DF9CE459F782}|antrl4CS\\antrl4CS.csproj|c:\\users\\hp\\onedrive - intec\\escritorio\\actividades_importantes\\intec\\10mo trimestre\\construccion de software\\antrl4cs - copy\\antrl4cs\\antrl4cs\\nodes\\astnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,11 +86,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "RedLangLexer.g4",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Definition\\RedLangLexer.g4",
+              "RelativeDocumentMoniker": "antrl4CS\\Definition\\RedLangLexer.g4",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Definition\\RedLangLexer.g4",
+              "RelativeToolTip": "antrl4CS\\Definition\\RedLangLexer.g4",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-26T19:47:43.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RedLangParser.g4",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Definition\\RedLangParser.g4",
+              "RelativeDocumentMoniker": "antrl4CS\\Definition\\RedLangParser.g4",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Definition\\RedLangParser.g4",
+              "RelativeToolTip": "antrl4CS\\Definition\\RedLangParser.g4",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAQwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-26T19:39:38.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ArrayAccessNode.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Nodes\\ArrayAccessNode.cs",
               "RelativeDocumentMoniker": "antrl4CS\\Nodes\\ArrayAccessNode.cs",
@@ -106,12 +124,11 @@
               "RelativeToolTip": "antrl4CS\\Nodes\\ArrayAccessNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:43:16.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T15:43:16.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "MemberAccessNode.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Nodes\\MemberAccessNode.cs",
               "RelativeDocumentMoniker": "antrl4CS\\Nodes\\MemberAccessNode.cs",
@@ -119,12 +136,11 @@
               "RelativeToolTip": "antrl4CS\\Nodes\\MemberAccessNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:42:55.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T15:42:55.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "FunctionCallNode.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Nodes\\FunctionCallNode.cs",
               "RelativeDocumentMoniker": "antrl4CS\\Nodes\\FunctionCallNode.cs",
@@ -132,12 +148,11 @@
               "RelativeToolTip": "antrl4CS\\Nodes\\FunctionCallNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:42:14.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T15:42:14.954Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "IdentifierNode.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Nodes\\IdentifierNode.cs",
               "RelativeDocumentMoniker": "antrl4CS\\Nodes\\IdentifierNode.cs",
@@ -145,12 +160,11 @@
               "RelativeToolTip": "antrl4CS\\Nodes\\IdentifierNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:40:39.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T15:40:39.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "LiteralNode.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Nodes\\LiteralNode.cs",
               "RelativeDocumentMoniker": "antrl4CS\\Nodes\\LiteralNode.cs",
@@ -158,12 +172,11 @@
               "RelativeToolTip": "antrl4CS\\Nodes\\LiteralNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:39:50.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T15:39:50.858Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "UnaryExpressionNode.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Nodes\\UnaryExpressionNode.cs",
               "RelativeDocumentMoniker": "antrl4CS\\Nodes\\UnaryExpressionNode.cs",
@@ -171,12 +184,11 @@
               "RelativeToolTip": "antrl4CS\\Nodes\\UnaryExpressionNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:38:51.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T15:38:51.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "BinaryExpressionNode.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Nodes\\BinaryExpressionNode.cs",
               "RelativeDocumentMoniker": "antrl4CS\\Nodes\\BinaryExpressionNode.cs",
@@ -184,12 +196,11 @@
               "RelativeToolTip": "antrl4CS\\Nodes\\BinaryExpressionNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:37:37.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T15:37:37.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "ExpressionNode.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Nodes\\ExpressionNode.cs",
               "RelativeDocumentMoniker": "antrl4CS\\Nodes\\ExpressionNode.cs",
@@ -197,12 +208,11 @@
               "RelativeToolTip": "antrl4CS\\Nodes\\ExpressionNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:37:04.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T15:37:04.073Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "BlockNode.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Nodes\\BlockNode.cs",
               "RelativeDocumentMoniker": "antrl4CS\\Nodes\\BlockNode.cs",
@@ -210,12 +220,11 @@
               "RelativeToolTip": "antrl4CS\\Nodes\\BlockNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:34:18.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T15:34:18.715Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
               "Title": "UseNode.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Nodes\\UseNode.cs",
               "RelativeDocumentMoniker": "antrl4CS\\Nodes\\UseNode.cs",
@@ -223,12 +232,11 @@
               "RelativeToolTip": "antrl4CS\\Nodes\\UseNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:21:05.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T15:21:05.997Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "ClassNode.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Nodes\\ClassNode.cs",
               "RelativeDocumentMoniker": "antrl4CS\\Nodes\\ClassNode.cs",
@@ -236,12 +244,11 @@
               "RelativeToolTip": "antrl4CS\\Nodes\\ClassNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:21:05.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T15:21:05.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "DeclarationNode.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Nodes\\DeclarationNode.cs",
               "RelativeDocumentMoniker": "antrl4CS\\Nodes\\DeclarationNode.cs",
@@ -249,25 +256,23 @@
               "RelativeToolTip": "antrl4CS\\Nodes\\DeclarationNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:21:05.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T15:21:05.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "TypeNode.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Nodes\\TypeNode.cs",
               "RelativeDocumentMoniker": "antrl4CS\\Nodes\\TypeNode.cs",
               "ToolTip": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Nodes\\TypeNode.cs",
               "RelativeToolTip": "antrl4CS\\Nodes\\TypeNode.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAowCsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBYAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:21:05.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T15:21:05.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "ProgramNode.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Nodes\\ProgramNode.cs",
               "RelativeDocumentMoniker": "antrl4CS\\Nodes\\ProgramNode.cs",
@@ -275,8 +280,7 @@
               "RelativeToolTip": "antrl4CS\\Nodes\\ProgramNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:21:03.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T15:21:03.868Z"
             },
             {
               "$type": "Document",
@@ -284,60 +288,12 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Program.cs",
               "RelativeDocumentMoniker": "antrl4CS\\Program.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Program.cs*",
-              "RelativeToolTip": "antrl4CS\\Program.cs*",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAqwB8AAAAOAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Program.cs",
+              "RelativeToolTip": "antrl4CS\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T05:22:18.779Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "construccion_semana2Lexer.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Generated\\construccion_semana2Lexer.cs",
-              "RelativeDocumentMoniker": "antrl4CS\\Generated\\construccion_semana2Lexer.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Generated\\construccion_semana2Lexer.cs",
-              "RelativeToolTip": "antrl4CS\\Generated\\construccion_semana2Lexer.cs",
-              "ViewState": "AgIAAN0AAAAAAAAAAAAAAPoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T05:20:46.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "construccion_semana2Parser.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Generated\\construccion_semana2Parser.cs",
-              "RelativeDocumentMoniker": "antrl4CS\\Generated\\construccion_semana2Parser.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Generated\\construccion_semana2Parser.cs",
-              "RelativeToolTip": "antrl4CS\\Generated\\construccion_semana2Parser.cs",
-              "ViewState": "AgIAAPgMAAAAAAAAAAAowBcNAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T05:19:08.033Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "construccion_semana2Parser.g4",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Definition\\construccion_semana2Parser.g4",
-              "RelativeDocumentMoniker": "antrl4CS\\Definition\\construccion_semana2Parser.g4",
-              "ToolTip": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Definition\\construccion_semana2Parser.g4",
-              "RelativeToolTip": "antrl4CS\\Definition\\construccion_semana2Parser.g4",
-              "ViewState": "AgIAADUBAAAAAAAAAAAUwFUBAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-11-24T05:04:28.659Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "construccion_semana2Lexer.g4",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Definition\\construccion_semana2Lexer.g4",
-              "RelativeDocumentMoniker": "antrl4CS\\Definition\\construccion_semana2Lexer.g4",
-              "ToolTip": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Definition\\construccion_semana2Lexer.g4",
-              "RelativeToolTip": "antrl4CS\\Definition\\construccion_semana2Lexer.g4",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-11-24T05:04:24.113Z"
             },
             {
               "$type": "Document",
@@ -347,14 +303,14 @@
               "RelativeDocumentMoniker": "antrl4CS\\AstBuilderVisitor.cs",
               "ToolTip": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\AstBuilderVisitor.cs",
               "RelativeToolTip": "antrl4CS\\AstBuilderVisitor.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAswJIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowJIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T05:02:39.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 18,
               "Title": "AstNode.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - INTEC\\Escritorio\\Actividades_importantes\\Intec\\10mo trimestre\\CONSTRUCCION DE SOFTWARE\\antrl4CS - Copy\\antrl4CS\\antrl4CS\\Nodes\\AstNode.cs",
               "RelativeDocumentMoniker": "antrl4CS\\Nodes\\AstNode.cs",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("antrl4CS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbc6b35a653ecb1119ff8b51d4921c9837d8254e")]
 [assembly: System.Reflection.AssemblyProductAttribute("antrl4CS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("antrl4CS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
