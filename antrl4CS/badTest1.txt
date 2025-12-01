@@ -1,0 +1,6 @@
+﻿object Program {
+    entry func Main():i {
+        set x = 10;
+        gives 0;
+    }
+}
