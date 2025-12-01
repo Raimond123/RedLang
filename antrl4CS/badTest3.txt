@@ -1,0 +1,5 @@
+﻿object Program {
+    entry func Main():i {
+        declare x:i = 5;
+    }
+}
