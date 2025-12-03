@@ -34,6 +34,8 @@ namespace antrl4CS
 
             Console.WriteLine("AST construido correctamente.");
 
+            AstPrinter.DumpAst(ast!);
+
             // 4. Ejecutar análisis semántico
             try
             {

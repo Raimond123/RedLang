@@ -486,6 +486,16 @@ namespace antrl4CS
                 }
             }
 
+            // --- NEW: treat ClassName() as constructor call returning instance of class ---
+            var classSym = _globalScope.Lookup(call.FunctionName) as ClassSymbol;
+            if (classSym != null)
+            {
+                // simple constructor support: require zero arguments for now
+                if (call.Arguments.Count != 0)
+                    throw new CompilerException($"constructor '{call.FunctionName}' expects 0 arguments but got {call.Arguments.Count}.");
+                return new TypeInfo { BaseName = classSym.Name };
+            }
+
             // user-defined function: try lookup in scope (local -> class -> global)
             var sym = ResolveFunction(call.FunctionName);
             if (sym == null)
@@ -505,7 +515,7 @@ namespace antrl4CS
             }
 
             return sym.ReturnType;
-        }    
+        }
 
         // Expression analysis returns a TypeInfo describing expression type
         private TypeInfo AnalyzeExpression(AstNode expr)
