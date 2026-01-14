@@ -10,13 +10,11 @@ namespace antrl4CS
     public static class AstPrinter
     {
         /// <summary>
-        /// 递归打印 AST 树
         /// </summary>
         public static void DumpAst(AstNode node, string indent = "")
         {
             if (node == null) return;
 
-            // 先打印当前节点的信息
             string info = node switch
             {
                 ProgramNode p => $"ProgramNode (uses={p.UseNodes.Count}, classes={p.ClassNodes.Count})",
@@ -38,7 +36,6 @@ namespace antrl4CS
 
             Console.WriteLine(indent + info);
 
-            // 再递归打印子节点
             switch (node)
             {
                 case ProgramNode p:

@@ -741,5 +741,103 @@ namespace antrl4CS
             if (info.IsNullable) s += "?";
             return s;
         }
+
+        public void AnalyzeProject(List<ProgramNode> units)
+        {
+            if (units == null || units.Count == 0)
+                throw new CompilerException("no compilation units to analyze.");
+
+            // 1) 建立 “类名 -> 单元索引” 的提供者映射（一个类属于哪个文件/单元）
+            var classProvider = new Dictionary<string, int>(StringComparer.Ordinal);
+
+            for (int i = 0; i < units.Count; i++)
+            {
+                foreach (var cls in units[i].ClassNodes)
+                {
+                    if (classProvider.ContainsKey(cls.Name))
+                        throw new CompilerException($"Class '{cls.Name}' is already defined in another file/unit.");
+                    classProvider[cls.Name] = i;
+                }
+            }
+
+            // 2) 建依赖图：unit i 依赖哪些 unit（通过 use 的名字解析到类提供者）
+            var graph = new Dictionary<int, List<int>>();
+            for (int i = 0; i < units.Count; i++)
+                graph[i] = new List<int>();
+
+            for (int i = 0; i < units.Count; i++)
+            {
+                foreach (var u in units[i].UseNodes)
+                {
+                    var depName = u.ClassName; // 你 PrintSummary 用的是 u.ClassName，所以这里也用它
+                    if (string.IsNullOrWhiteSpace(depName)) continue;
+
+                    if (!classProvider.TryGetValue(depName, out var depUnit))
+                        throw new CompilerException($"use '{depName}' not found (no such class/module).");
+
+                    graph[i].Add(depUnit);
+                }
+            }
+
+            // 3) DFS 检测环（按 unit 维度）
+            var visited = new bool[units.Count];
+            var inStack = new bool[units.Count];
+            var parent = new int[units.Count];
+            Array.Fill(parent, -1);
+
+            for (int i = 0; i < units.Count; i++)
+            {
+                if (!visited[i])
+                    DfsDetectCycle(i);
+            }
+
+            void DfsDetectCycle(int v)
+            {
+                visited[v] = true;
+                inStack[v] = true;
+
+                foreach (var to in graph[v])
+                {
+                    if (!visited[to])
+                    {
+                        parent[to] = v;
+                        DfsDetectCycle(to);
+                    }
+                    else if (inStack[to])
+                    {
+                        // 找到环：还原路径
+                        var cycle = new List<int> { to };
+                        int cur = v;
+                        while (cur != -1 && cur != to)
+                        {
+                            cycle.Add(cur);
+                            cur = parent[cur];
+                        }
+                        cycle.Add(to);
+                        cycle.Reverse();
+
+                        // 把 unit 索引转换成“类名”更好读：取该 unit 的第一个 class 名称作为标签
+                        string Label(int idx) =>
+                            units[idx].ClassNodes.FirstOrDefault()?.Name ?? $"unit#{idx}";
+
+                        var cycleText = string.Join(" -> ", cycle.Select(Label));
+                        throw new CompilerException($"circular dependency detected: {cycleText}");
+                    }
+                }
+
+                inStack[v] = false;
+            }
+
+            // 4) 无环后：合并成 masterNode，再用你原来的 Analyze 走完整语义检查
+            var master = new ProgramNode();
+            foreach (var n in units)
+            {
+                master.UseNodes.AddRange(n.UseNodes);
+                master.ClassNodes.AddRange(n.ClassNodes);
+            }
+
+            Analyze(master); // 调用你现有的 Analyze（注册类/成员/分析函数体/entry检查等）
+        }
+
     }
 }

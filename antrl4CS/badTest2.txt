@@ -1,6 +1,0 @@
-﻿object Program {
-    entry func Main():i {
-        declare x:i = 2.5;
-        gives x;
-    }
-}
