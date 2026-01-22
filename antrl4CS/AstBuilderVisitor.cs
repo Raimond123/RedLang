@@ -428,7 +428,8 @@ namespace antrl4CS
                     Line = context.Start?.Line ?? 0,
                     Column = context.Start?.Column ?? 0,
                     Target = target,
-                    MemberName = call.FunctionName
+                    MemberName = call.FunctionName,
+                    MethodCall = call // Guardar el CallNode completo con los argumentos
                 };
             }
         }

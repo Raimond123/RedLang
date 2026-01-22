@@ -132,13 +132,19 @@ afterloop:                                        ; preds = %cond
   %new_obj = call ptr @malloc(i64 8)
   %obj = alloca ptr, align 8
   store ptr %new_obj, ptr %obj, align 8
+  %x40 = load i64, ptr %x, align 4
+  %y41 = load i64, ptr %y, align 4
+  %call_func = call i64 @suma(i64 %x40, i64 %y41)
   %test = alloca i64, align 8
-  store i64 0, ptr %test, align 4
-  store i64 0, ptr %x, align 4
-  %call_show40 = call i32 (ptr, ...) @printf(ptr @printfmt.27, ptr @str.26)
-  %x41 = load i64, ptr %x, align 4
-  %call_show42 = call i32 (ptr, ...) @printf(ptr @printfmt.28, i64 %x41)
-  %call_scanf43 = call i32 (ptr, ...) @scanf(ptr @scanfmt.29, ptr %x)
+  store i64 %call_func, ptr %test, align 4
+  %x42 = load i64, ptr %x, align 4
+  %y43 = load i64, ptr %y, align 4
+  %call_func44 = call i64 @suma(i64 %x42, i64 %y43)
+  store i64 %call_func44, ptr %x, align 4
+  %call_show45 = call i32 (ptr, ...) @printf(ptr @printfmt.27, ptr @str.26)
+  %x46 = load i64, ptr %x, align 4
+  %call_show47 = call i32 (ptr, ...) @printf(ptr @printfmt.28, i64 %x46)
+  %call_scanf48 = call i32 (ptr, ...) @scanf(ptr @scanfmt.29, ptr %x)
   ret i64 0
 }
 

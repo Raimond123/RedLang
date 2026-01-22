@@ -366,6 +366,14 @@ namespace antrl4CS
                     }
                     break;
                 case CallNode c: return GenerateCallExpression(c);
+                case MemberAccessNode m:
+                    // Si es una llamada a método (tiene MethodCall), generar la llamada
+                    if (m.MethodCall != null)
+                    {
+                        return GenerateCallExpression(m.MethodCall);
+                    }
+                    // Si es acceso a propiedad, aquí se manejaría (no implementado aún)
+                    break;
             }
             return LLVMValueRef.CreateConstInt(_context.Int64Type, 0, false);
         }
